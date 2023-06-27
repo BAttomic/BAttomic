@@ -9,10 +9,10 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=BAttomic&show_icons=true&theme=github_dark&&hide_border=true">
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=BAttomic&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="BAttomic's github streak stats">
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=BAttomic&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="BAttomic's github streak stats">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=BAttomic&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=BAttomic&theme=onegithub_dark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 </p>
 
 <p align="center">
