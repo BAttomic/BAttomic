@@ -18,6 +18,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAttomic&layout=normal&langs_count=7&theme=github_dark"></p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
+
 <br> <p align="center"> 
 [<img src="https://img.shields.io/badge/Reddit-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic)
 [<img src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic)
