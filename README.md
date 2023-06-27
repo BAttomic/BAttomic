@@ -20,11 +20,11 @@
 [<img src="https://img.shields.io/badge/Reddit-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic)
 [<img src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic)
 [<img src="https://img.shields.io/badge/Discord-%237289d9?logo=discord&logoColor=white">](discordapp.com/users/yourID) 
-[<img src="https://img.shields.io/badge/Youtube-%23c4302b?logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCqqP0lMuUcyJCJ1TGujOWHA)
-[<img src="https://img.shields.io/badge/Twitch-%236441a5?logo=twitch&logoColor=white">](https://www.twitch.tv/battomic)
-[<img src="https://img.shields.io/badge/Spotify-%231ed760?logo=spotify&logoColor=white">](https://open.spotify.com/user/8a69o7f9rxumuidcwoy0g5t3p)
 [<img src="https://img.shields.io/badge/Steam-%2300adee?logo=steam&logoColor=white">](https://steamcommunity.com/id/B_Attomic/)
 [<img src="https://img.shields.io/badge/Instagram-%23bc2a8d?logo=instagram&logoColor=white">](https://www.instagram.com/b_attomic/)
+[<img src="https://img.shields.io/badge/Twitch-%236441a5?logo=twitch&logoColor=white">](https://www.twitch.tv/battomic)
+[<img src="https://img.shields.io/badge/Youtube-%23c4302b?logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCqqP0lMuUcyJCJ1TGujOWHA)
+[<img src="https://img.shields.io/badge/Spotify-%231ed760?logo=spotify&logoColor=white">](https://open.spotify.com/user/8a69o7f9rxumuidcwoy0g5t3p)
 </p>
 
 <p align="center">
