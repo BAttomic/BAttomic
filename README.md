@@ -25,6 +25,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
 
 <br> <p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=BAttomic&style=for-the-badge&color=1d62d0&label=Visitas+ao+perfil">
+<br>
 [<img src="https://img.shields.io/badge/Reddit-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic) 
 [<img src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic) 
 [<img src="https://img.shields.io/badge/Discord-%237289d9?logo=discord&logoColor=white">](discordapp.com/users/yourID) <br>
