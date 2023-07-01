@@ -23,20 +23,21 @@
 </p>
 
 ㅤ<p align="center">
-[<img src="https://discordapp.com/api/guilds/343392121241337856/widget.png?style=banner3">](https://discord.gg/nhhEpC89VY)
+[<img width="340" src="https://discordapp.com/api/guilds/343392121241337856/widget.png?style=banner3">](https://discord.gg/nhhEpC89VY)
 <br><br>
-[<img src="https://img.shields.io/badge/GitHub-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic) 
-[<img src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic) 
-[<img src="https://img.shields.io/badge/Discord-%237289d9?logo=discord&logoColor=white">](https://discordapp.com/users/498094956473483284)
-[<img src="https://img.shields.io/badge/Steam-%2300adee?logo=steam&logoColor=white">](https://steamcommunity.com/id/B_Attomic/)
-[<img src="https://img.shields.io/badge/Gmail-%23c71610?logo=gmail&logoColor=white">](mailto:bernardo.motta@ufv.br) 
+[<img width="110" height="30" src="https://img.shields.io/badge/GitHub-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic) 
+[<img width="110" height="30" src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic) 
+[<img width="110" height="30" src="https://img.shields.io/badge/Discord-%237289d9?logo=discord&logoColor=white">](https://discordapp.com/users/498094956473483284)
 <br>
-[<img src="https://img.shields.io/badge/Instagram-%23bc2a8d?logo=instagram&logoColor=white">](https://www.instagram.com/b_attomic/) 
-[<img src="https://img.shields.io/badge/Twitch-%236441a5?logo=twitch&logoColor=white">](https://www.twitch.tv/battomic) 
-[<img src="https://img.shields.io/badge/Youtube-%23c4302b?logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCqqP0lMuUcyJCJ1TGujOWHA) 
-[<img src="https://img.shields.io/badge/Spotify-%231ed760?logo=spotify&logoColor=white">](https://open.spotify.com/user/8a69o7f9rxumuidcwoy0g5t3p)
+[<img width="110" height="30" src="https://img.shields.io/badge/Steam-%2300adee?logo=steam&logoColor=white">](https://steamcommunity.com/id/B_Attomic/)
+[<img width="110" height="30" src="https://img.shields.io/badge/Gmail-%23c71610?logo=gmail&logoColor=white">](mailto:bernardo.motta@ufv.br) 
+[<img width="110" height="30" src="https://img.shields.io/badge/Instagram-%23bc2a8d?logo=instagram&logoColor=white">](https://www.instagram.com/b_attomic/) 
+<br>
+[<img width="110" height="30" src="https://img.shields.io/badge/Twitch-%236441a5?logo=twitch&logoColor=white">](https://www.twitch.tv/battomic) 
+[<img width="110" height="30" src="https://img.shields.io/badge/Youtube-%23c4302b?logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCqqP0lMuUcyJCJ1TGujOWHA) 
+[<img width="110" height="30" src="https://img.shields.io/badge/Spotify-%231ed760?logo=spotify&logoColor=white">](https://open.spotify.com/user/8a69o7f9rxumuidcwoy0g5t3p)
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=BAttomic&style=for-the-badge&color=1d62d0&label=Visitas+ao+perfil">
+<img height="30" src="https://komarev.com/ghpvc/?username=BAttomic&style=for-the-badge&color=1d62d0&label=Visitas+ao+perfil">
 </p>
 
 <p align="center">
