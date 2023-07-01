@@ -25,7 +25,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
 
 <br> <p align="center">
-![Lykos Province](https://discordapp.com/api/guilds/343392121241337856/widget.png?style=banner3) <br> <br>
+[<img src="https://discordapp.com/api/guilds/343392121241337856/widget.png?style=banner3">](https://discord.gg/nhhEpC89VY) <br> <br>
 [<img src="https://img.shields.io/badge/GitHub-%23171515?logo=github&logoColor=white">](https://github.com/BAttomic) 
 [<img src="https://img.shields.io/badge/Reddit-%23FF4300?logo=reddit&logoColor=white">](https://www.reddit.com/user/B_Attomic) 
 [<img src="https://img.shields.io/badge/Discord-%237289d9?logo=discord&logoColor=white">](https://discordapp.com/users/498094956473483284)
