@@ -21,7 +21,7 @@
   <br/>
 
   <!-- Links sociais com tema dark -->
-  [![Portfolio](https://img.shields.io/badge/Portfolio-bernardo.dev-f7f4be?style=for-the-badge&logoColor=black)](https://battomic.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-battomic.com-f7f4be?style=for-the-badge&logoColor=black)](https://battomic.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/bernardo-cordeiro-motta-277010298)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardocordeiromotta@gmail.com)
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BAttomic&style=for-the-badge&color=f7f4be&label=Visitas+ao+Perfil">
+<img src="https://komarev.com/ghpvc/?username=BAttomic&style=for-the-badge&color=000000&label=Visitas+ao+Perfil">
 
 <br/>
 
